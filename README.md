@@ -1,8 +1,10 @@
 # Sports-Analysis
-Overview
+Overview: 
+
 This repository contains a comprehensive analysis of historical data from multiple editions of the Olympic Games. The analysis covers various dimensions, including games, sports, events, participants, medals, and regional representation. The primary goal of this project is to gain valuable insights into the history and evolution of the Olympics, identify trends, patterns, and significant insights, and generate recommendations for enhancing future Olympics' organization, sports selection, and representation of diverse regions.
 
-Contents
+Contents:
+
 The repository includes the following key components:
 
 Data: This directory contains the datasets used for the analysis. It includes historical data related to the Olympic Games, including information about games, sports, events, participants, and medals.
@@ -13,7 +15,8 @@ Reports: This directory contains the final comprehensive report of the Olympic G
 
 Presentations: This directory contains presentation materials such as slides and any related assets for showcasing the analysis results.
 
-Analysis Process
+Analysis Process:
+
 The analysis is structured around the following key areas:
 
 Games and Sports: Exploring the history of Olympic Games and the sports that have been included over time.
