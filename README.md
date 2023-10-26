@@ -1,4 +1,4 @@
-# Sports-Analysis
+# Capstone_Project
 Overview: 
 
 This repository contains a comprehensive analysis of historical data from multiple editions of the Olympic Games. The analysis covers various dimensions, including games, sports, events, participants, medals, and regional representation. The primary goal of this project is to gain valuable insights into the history and evolution of the Olympics, identify trends, patterns, and significant insights, and generate recommendations for enhancing future Olympics' organization, sports selection, and representation of diverse regions.
